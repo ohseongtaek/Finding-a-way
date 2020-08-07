@@ -3,7 +3,7 @@
 #include "Util.h"
 #define endl '\n'
 
-// Main (Start Point)
+// Main (Start Point) and Code Start
 int main()
 {
     init();

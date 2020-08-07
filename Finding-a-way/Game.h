@@ -1,6 +1,6 @@
 #include "Main.h"
 
-//Key Borad Event handling 
+//Key Borad Event handling Enum
 typedef enum KeyBoard {
     UP = 0,
     DOWN = 1,

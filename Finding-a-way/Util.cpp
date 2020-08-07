@@ -20,7 +20,7 @@ void gotoxy(int x, int y) {
     SetConsoleCursorPosition(consoleHandle, pos);
 }
 
-//Console Screen Color Changed
+//Console Screen Color Changed Used Enum Value
 void setColor(int forground, int background) {
     int color = forground + background * 16;
     SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), color);
