@@ -6,7 +6,7 @@ void setColor(int a, int b);
 
 #ifndef __COLOR_LIST_
 #define __COLOR_LIST_
-//Enum Value of Color
+//Enum Value of Color ok
 enum {
 	black,
 	blue,

@@ -1,6 +1,6 @@
 #include "Util.h"
 
-//Console Size and Title And Cursor Not Flickering Handling
+//Console Size and Title And Cursor Not Flickering Handling ok 
 void init() {
     system("mode con cols=58 lines=20");
     system(" title Seongtaek10.oh");

@@ -32,7 +32,7 @@ int main()
         setColor(white, black);
     }
     return 0;
-    /* debug code for gotoxy function
+    /* debug code for gotoxy function ok
     gotoxy(2, 2);
     std::cout << "2,2" << endl;
     gotoxy(6, 6);
