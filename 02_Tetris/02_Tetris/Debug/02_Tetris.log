@@ -1,0 +1,4 @@
+﻿  02_Tetris_Game.cpp
+D:\Git\GAME\02_Tetris\02_Tetris\02_Tetris_Game.cpp(442,16): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\Git\GAME\02_Tetris\02_Tetris\02_Tetris_Game.cpp(442,18): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  02_Tetris.vcxproj -> D:\Git\GAME\02_Tetris\Debug\02_Tetris.exe
