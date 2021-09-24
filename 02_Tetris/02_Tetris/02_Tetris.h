@@ -1,7 +1,5 @@
 #include "02_Tetris_DefineBlock.h"
 
-//https://seokjin2.tistory.com/35
-
 // Main menu Class 
 class MainMenu
 {
